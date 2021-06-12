@@ -1,4 +1,4 @@
-#**PROYECTO FINAL PROGRAMACION 3**#
+# PROYECTO FINAL PROGRAMACION 3
 #### Integrantes:
 ##### Emilio Benjamin Con Navarro - 0900-19-5983
 ##### Fatima Odemi Samayoa Guerra - 0900-19-281
